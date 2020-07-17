@@ -1,0 +1,40 @@
+.art{
+    position: relative;
+    text-align: center;
+    /* color: white; */
+}
+
+.leftabout{
+    position: absolute;
+    top : 1em;
+    left: 0em;
+}
+.centerabout{
+    position: absolute;
+    top: 2em;
+    left: 26%;
+    right:30%;
+}
+.rightabout{
+    position: absolute;
+    top : 1em;
+    right: 4em;
+}
+.leftskill{
+    position: absolute;
+    top: 15 em;
+    left: 0em;
+}
+.center2{
+    position: absolute;
+    top: 15em;
+    left: 30%;
+    right:30%;
+}
+.Booksuggestion{ position: absolute;
+    top : 0em;
+    right: 0%;
+    left: 60% ;}
+.hidden{
+    list-style: none;
+}
